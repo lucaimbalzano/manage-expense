@@ -1,12 +1,10 @@
 import logo from './logo.svg';
+import ExpenseItem from './components/ExpenseItem';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h2>Expense manager</h2>
-        <img src={logo} className="App-logo" alt="logo" height="200px" width="200px" />
-      </header>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
