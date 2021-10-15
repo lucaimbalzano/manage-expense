@@ -26,6 +26,9 @@ const App = () => {
 
   return (
     <div>
+       <div className="expense-logo">
+      <img src="expense-logo.png" />
+    </div>
       <NewExpense/>
       <Expense items={expenses} />
     </div>
