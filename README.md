@@ -1,4 +1,6 @@
-# manage-expense
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45575898/137494309-46d9668f-631a-439a-ba42-81dc41c73f2b.png">
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
