@@ -61,6 +61,7 @@ const ExpenseForm = (props) => {
 
   };
 
+
   return (
     <form onSubmit={submitForm}>
       <div className="expense-form-controls">
@@ -97,6 +98,7 @@ const ExpenseForm = (props) => {
         </div>
       </div>
       <div className="expense-form-actions">
+        <button onClick={props.onSaveExpenseData} type="button" >Cancel</button>
         <button type="submit">Save ✔️</button>
       </div>
     </form>

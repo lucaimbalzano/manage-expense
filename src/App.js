@@ -57,8 +57,8 @@ const MOCK_DATA = [
 const App = () => {
   const [expenses,setExpense] =  useState(MOCK_DATA);
   const newExpenseHandler = newExpenses => {
-    setExpense((previusExppense) =>{
-          return  [newExpenses, ...previusExppense];
+    setExpense((previusExpense) =>{
+          return  [newExpenses, ...previusExpense];
     });
   };
 

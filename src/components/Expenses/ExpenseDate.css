@@ -10,6 +10,12 @@
     align-items: center;
     justify-content: center;
   }
+
+  .expense-date:hover {
+    background-color: #616060;
+    color: #2a2a2a;
+    border: 1px solid #202020;
+  }
   
   .expense-date-month {
     font-size: 0.75rem;

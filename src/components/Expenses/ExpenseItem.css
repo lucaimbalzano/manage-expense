@@ -38,6 +38,11 @@
   border-radius: 12px;
 }
 
+.expense-item__price:hover {
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(12, 12, 12);
+}
+
 /* When the display width 580px fix the content  */
 @media (min-width: 580px) {
   .expense-item__description {
