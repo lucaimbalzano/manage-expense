@@ -2,16 +2,16 @@
   <img src="https://user-images.githubusercontent.com/45575898/137494309-46d9668f-631a-439a-ba42-81dc41c73f2b.png">
 </p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <img alt="react" src="https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=React&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-00FF00?style=flat-square&logo=css3&logoColor=white" />
 
 ## Preview📌
+![Manage-Expense](https://user-images.githubusercontent.com/45575898/137781946-3fddf0f8-b904-4012-9420-d346837d4f4c.png)
 
 ## Installation📌
+
 Run `npm install` to install all the dependencies
 
 ## Development server📌
