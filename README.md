@@ -10,8 +10,21 @@
 ## Preview📌
 ![Manage-Expense](https://user-images.githubusercontent.com/45575898/137781946-3fddf0f8-b904-4012-9420-d346837d4f4c.png)
 
-## Installation📌
+## Description📌
+Concepts implemented:
 
+> Render List of Data, Stateful List
+> Using `Keys`
+> Output Conditional content
+> Event  Handler, useState Hook
+> Props
+> Handle user inputs
+> Two-Way-Binding
+> Child-to-parent Component Comunication
+> CSS classes used in JSX
+
+
+## Installation📌
 Run `npm install` to install all the dependencies
 
 ## Development server📌
