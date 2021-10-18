@@ -13,12 +13,14 @@
     font: inherit;
     cursor: pointer;
     padding: 1rem 2rem;
-    border: 1px solid #ffffff;
-    background-color: #618068;
-    color: white;
+    border: 1px solid #000000;
+    background-color: #9edd8e;
+    color: rgb(0, 0, 0);
     border-radius: 12px;
     margin-right: 1rem;
   }
+
+  
   
   .new-expense button:hover,
   .new-expense button:active {
