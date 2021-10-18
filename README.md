@@ -14,13 +14,21 @@
 Concepts implemented:
 
 > Render List of Data, Stateful List
+
 > Using `Keys`
+
 > Output Conditional content
+
 > Event  Handler, useState Hook
+
 > Props
+
 > Handle user inputs
+
 > Two-Way-Binding
+
 > Child-to-parent Component Comunication
+
 > CSS classes used in JSX
 
 
